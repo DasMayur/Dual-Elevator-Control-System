@@ -1,0 +1,26 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Quartus programmes\LLiftC\simulation\modelsim
+vLLiftC
+!i10b 1
+!s100 <jiS1]Z3AAnWSIV7@067m3
+ILKlEc]>a`z[z_HIfImQ2[0
+V0M5^7cKTV:A?IZ6@6_]@S3
+Z1 dD:\Quartus programmes\LLiftC\simulation\modelsim
+w1668943946
+8D:/Quartus programmes/LLiftC/LLiftC.v
+FD:/Quartus programmes/LLiftC/LLiftC.v
+L0 1
+OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1669105131.914000
+!s107 D:/Quartus programmes/LLiftC/LLiftC.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Quartus programmes/LLiftC|D:/Quartus programmes/LLiftC/LLiftC.v|
+!s101 -O0
+o-vlog01compat -work work -O0
+!s92 -vlog01compat -work work {+incdir+D:/Quartus programmes/LLiftC} -O0
+n@l@lift@c
